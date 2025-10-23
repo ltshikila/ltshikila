@@ -84,8 +84,6 @@
 ---
 
 <div align="center">
-  <iframe src="https://www.behance.net/embed/project/92880429?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
-  <br><br>
   <h4 style="color:#00ffff; font-weight:normal;">
     ⚡ Keep building, keep creating, stay glowing.
   </h4>
