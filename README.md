@@ -84,7 +84,7 @@
 ---
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif](https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif)" width="100%" alt="Neon Lights Divider">
+  <iframe src="https://www.behance.net/embed/project/92880429?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
   <br><br>
   <h4 style="color:#00ffff; font-weight:normal;">
     ⚡ Keep building, keep creating, stay glowing.
