@@ -8,8 +8,6 @@
   </h1>
   <h3 style="color:#ff00ff;">Full Stack Developer • Game Dev • Digital Artist</h3>
   <p style="color:#aaa;">Pretoria, South Africa 🇿🇦</p>
-
-  <img src="https://media.giphy.com/media/J1Z0eW6Rdz0kI/giphy.gif" width="300px" alt="JDM Drift">
 </div>
 
 ---
@@ -69,7 +67,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKP3r3PR0EwNiXS/giphy.gif" width="100%" alt="Neon Divider">
 </div>
 
 ## 🌌 GitHub Stats
