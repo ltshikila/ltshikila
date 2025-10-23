@@ -84,7 +84,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100%" alt="Neon Lights Divider">
+  <img src="[https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif](https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif)" width="100%" alt="Neon Lights Divider">
   <br><br>
   <h4 style="color:#00ffff; font-weight:normal;">
     ⚡ Keep building, keep creating, stay glowing.
