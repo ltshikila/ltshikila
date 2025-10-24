@@ -14,17 +14,17 @@
 
 ### ⚡ Currently Building
 > [**StockFellow**](https://github.com/COS301-SE-2025/StockFellow)  
-> An intelligent stock management platform blending AI and usability.
+> An intelligent stokvel management platform blending automation, usability and security!
 
 ---
 
 ### 🌱 Currently Learning
-🌀 **Next.js**  💻 **.NET**  ☕ **Java Spring Boot**
+🌀 **Next.js**  💻 **.NET**  
 
 ---
 
 ### 💬 Ask Me About
-⚛️ **React & React Native** 🎮 **Unity** 🎨 **Creative Dev Workflows**
+⚛️ **React & React Native** 🎮 **Unity** ☕ **Java Spring Boot** 🎨 **Creative Dev Workflows**
 
 ---
 
@@ -32,7 +32,7 @@
 📧 [ltshikila17@gmail.com](mailto:ltshikila17@gmail.com)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="80%" alt="Tokyo Street JDM Cars">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="80%" alt="Confused Monkey">
 </div>
 
 ---
