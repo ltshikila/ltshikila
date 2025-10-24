@@ -46,7 +46,7 @@
 
 ### ⚛️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,dotnet,redux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,redux" />
 </p>
 
 ### 🧩 Databases
